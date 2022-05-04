@@ -6,15 +6,7 @@
 </template>
 
 <script lang="ts">
-export default {
-  mounted() {
-    let obj = {
-      name: "zerotower",
-    };
-    console.log("aa");
-    console.log(obj?.name);
-  },
-};
+export default {};
 </script>
 
 <style>
